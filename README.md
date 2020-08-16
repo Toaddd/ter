@@ -5,14 +5,10 @@ Master 1 -Informatique - Université Paris-Saclay
 Ce projet est pour visualiser le processus d'exécution de l'algorithme étape par étape
 
 ## Lien
-programme  binder:
+programme  et rapport ,presentation:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/master)
 
 [cours](https://gitlab.u-psud.fr/nicolas.thiery/ter-jupyter)
-
-rapport :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/blob/master/rapport_Tingting_ZHU_Yu_YANG.ipynb/master)
-
-presentation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/blob/master/soutenance.ipynb/master)
 
 ## L'ensemble de code est en python et il faut installer les principale bibliothèque suivant :
 
