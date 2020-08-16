@@ -14,7 +14,6 @@ rapport :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v
 
 presentation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/blob/master/soutenance.ipynb/master)
 
-
 ## L'ensemble de code est en python et il faut installer les principale bibliothèque suivant :
 
 * valueplayerwidget
