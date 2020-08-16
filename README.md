@@ -9,8 +9,10 @@ programme  binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/master)
 
 [cours](https://gitlab.u-psud.fr/nicolas.thiery/ter-jupyter)
+
 rapport :[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/blob/master/rapport_Tingting_ZHU_Yu_YANG.ipynb/master)
-presentation : 
+
+presentation : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Toaddd/ter/blob/master/soutenance.ipynb/master)
 
 
 ## L'ensemble de code est en python et il faut installer les principale bibliothèque suivant :
